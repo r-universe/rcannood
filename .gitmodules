@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "diffusionMap"]
+	path = diffusionMap
+	url = https://github.com/rcannood/diffusionmap
+	shallow = true
+	registered = true
+[submodule "GillespieSSA"]
+	path = GillespieSSA
+	url = https://github.com/rcannood/gillespiessa
+	shallow = true
+	registered = true
+[submodule "GillespieSSA2"]
+	path = GillespieSSA2
+	url = https://github.com/rcannood/gillespiessa2
+	shallow = true
+	registered = true
+[submodule "incgraph"]
+	path = incgraph
+	url = https://github.com/rcannood/incgraph
+	shallow = true
+	registered = true
+[submodule "princurve"]
+	path = princurve
+	url = https://github.com/rcannood/princurve
+	shallow = true
+	registered = true
+[submodule "qsub"]
+	path = qsub
+	url = https://github.com/rcannood/qsub
+	shallow = true
+	registered = true
+[submodule "SCORPIUS"]
+	path = SCORPIUS
+	url = https://github.com/rcannood/scorpius
+	shallow = true
+	registered = true
