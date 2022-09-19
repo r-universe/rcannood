@@ -1,9 +1,5 @@
 [
   {
-    "package": "diffusionMap",
-    "oncran": true
-  },
-  {
     "package": "GillespieSSA",
     "oncran": true
   },

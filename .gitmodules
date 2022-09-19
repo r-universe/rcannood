@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "diffusionMap"]
-	path = diffusionMap
-	url = https://github.com/rcannood/diffusionmap
-	shallow = true
-	registered = true
 [submodule "GillespieSSA"]
 	path = GillespieSSA
 	url = https://github.com/rcannood/gillespiessa
