@@ -1,10 +1,6 @@
 [
   {
-    "package": "qsub",
-    "oncran": true
-  },
-  {
-    "package": "princurve",
+    "package": "diffusionMap",
     "oncran": true
   },
   {
@@ -16,15 +12,19 @@
     "oncran": true
   },
   {
-    "package": "diffusionMap",
+    "package": "incgraph",
+    "oncran": true
+  },
+  {
+    "package": "princurve",
+    "oncran": true
+  },
+  {
+    "package": "qsub",
     "oncran": true
   },
   {
     "package": "SCORPIUS",
-    "oncran": true
-  },
-  {
-    "package": "incgraph",
     "oncran": true
   }
 ]
