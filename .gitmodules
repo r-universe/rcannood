@@ -2,15 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "diffusionMap"]
-	path = diffusionMap
-	url = https://github.com/rcannood/diffusionmap
 [submodule "GillespieSSA"]
 	path = GillespieSSA
 	url = https://github.com/rcannood/gillespiessa
 [submodule "GillespieSSA2"]
 	path = GillespieSSA2
 	url = https://github.com/rcannood/gillespiessa2
+[submodule "SCORPIUS"]
+	path = SCORPIUS
+	url = https://github.com/rcannood/scorpius
+[submodule "diffusionMap"]
+	path = diffusionMap
+	url = https://github.com/rcannood/diffusionmap
 [submodule "incgraph"]
 	path = incgraph
 	url = https://github.com/rcannood/incgraph
@@ -20,6 +23,3 @@
 [submodule "qsub"]
 	path = qsub
 	url = https://github.com/rcannood/qsub
-[submodule "SCORPIUS"]
-	path = SCORPIUS
-	url = https://github.com/rcannood/scorpius
