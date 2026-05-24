@@ -8,9 +8,6 @@
 [submodule "GillespieSSA2"]
 	path = GillespieSSA2
 	url = https://github.com/rcannood/gillespiessa2
-[submodule "SCORPIUS"]
-	path = SCORPIUS
-	url = https://github.com/rcannood/scorpius
 [submodule "diffusionMap"]
 	path = diffusionMap
 	url = https://github.com/rcannood/diffusionmap
